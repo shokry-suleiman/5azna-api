@@ -1,0 +1,369 @@
+{
+    "data":{
+        "columnSet": [
+            {
+                "lable": "Request ID",
+                "name": "requestId",
+                "search": true
+            },
+            {
+                "lable": "Khazna ID",
+                "name": "khaznaId",
+                "search": true
+            },
+            {
+                "lable": "HR Code",
+                "name": "hrCode",
+                "search": true
+            },
+            {
+                "lable": "National ID",
+                "name": "nationalId",
+                "search": true
+            },
+            {
+                "lable": "Full Name",
+                "name": "name",
+                "search": true
+            },
+            {
+                "lable": "Contact Number",
+                "name": "cotact",
+                "search": true
+            },
+            {
+                "lable": "Company Name",
+                "name": "companyName",
+                "filter": true
+            },
+            {
+                "lable": "Request Date",
+                "name": "requestDate",
+                "search": true
+            },
+            {
+                "lable": "Bank Name",
+                "name": "bankName",
+                "search": true
+            },
+            {
+                "lable": "Account Number",
+                "name": "accountNumber",
+                "search": true
+            },
+            {
+                "lable": "Status",
+                "name": "status",
+                "filter": true
+            },
+            {
+                "lable": "Total Installiments",
+                "name": "sattlements",
+                "search": true
+            },
+            {
+                "lable": "Payment",
+                "name": "payment",
+                "filter": true
+            }
+    
+        ],
+        "dataSet": [
+            {
+                "requestId":"0324234032",
+                "khaznaId":"9878657643",
+                "hrCode":"DET34",
+                "nationalId":"7564532345324",
+                "name":"Shoukry Suleiman",
+                "contact":"01096600801",
+                "companyName":"Paynas",
+                "requestDate":"13-2-2021",
+                "bankName":"NBE",
+                "status":"Approved",
+                "sattlements":"4",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324906732",
+                "khaznaId":"9823457643",
+                "hrCode":"XWT34",
+                "nationalId":"0912652345324",
+                "name":"Omar Hamza",
+                "contact":"01096600222",
+                "companyName":"Paymob",
+                "requestDate":"3-3-2021",
+                "bankName":"CIB",
+                "status":"Rejected",
+                "sattlements":"6",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324267112",
+                "khaznaId":"9814527643",
+                "hrCode":"XUB34",
+                "nationalId":"756453434545324",
+                "name":"Ashraf Negm",
+                "contact":"01099900801",
+                "companyName":"Paynas",
+                "requestDate":"18-4-2021",
+                "bankName":"QNB",
+                "status":"Canceled",
+                "sattlements":"8",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324234032",
+                "khaznaId":"9878657643",
+                "hrCode":"DET34",
+                "nationalId":"7564532345324",
+                "name":"Shoukry Suleiman",
+                "contact":"01096600801",
+                "companyName":"Paynas",
+                "requestDate":"13-2-2021",
+                "bankName":"NBE",
+                "status":"Approved",
+                "sattlements":"4",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324906732",
+                "khaznaId":"9823457643",
+                "hrCode":"XWT34",
+                "nationalId":"0912652345324",
+                "name":"Omar Hamza",
+                "contact":"01096600222",
+                "companyName":"Paymob",
+                "requestDate":"3-3-2021",
+                "bankName":"CIB",
+                "status":"Rejected",
+                "sattlements":"6",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324267112",
+                "khaznaId":"9814527643",
+                "hrCode":"XUB34",
+                "nationalId":"756453434545324",
+                "name":"Ashraf Negm",
+                "contact":"01099900801",
+                "companyName":"Paynas",
+                "requestDate":"18-4-2021",
+                "bankName":"QNB",
+                "status":"Canceled",
+                "sattlements":"8",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324234032",
+                "khaznaId":"9878657643",
+                "hrCode":"DET34",
+                "nationalId":"7564532345324",
+                "name":"Shoukry Suleiman",
+                "contact":"01096600801",
+                "companyName":"Paynas",
+                "requestDate":"13-2-2021",
+                "bankName":"NBE",
+                "status":"Approved",
+                "sattlements":"4",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324906732",
+                "khaznaId":"9823457643",
+                "hrCode":"XWT34",
+                "nationalId":"0912652345324",
+                "name":"Omar Hamza",
+                "contact":"01096600222",
+                "companyName":"Paymob",
+                "requestDate":"3-3-2021",
+                "bankName":"CIB",
+                "status":"Rejected",
+                "sattlements":"6",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324267112",
+                "khaznaId":"9814527643",
+                "hrCode":"XUB34",
+                "nationalId":"756453434545324",
+                "name":"Ashraf Negm",
+                "contact":"01099900801",
+                "companyName":"Paynas",
+                "requestDate":"18-4-2021",
+                "bankName":"QNB",
+                "status":"Canceled",
+                "sattlements":"8",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324234032",
+                "khaznaId":"9878657643",
+                "hrCode":"DET34",
+                "nationalId":"7564532345324",
+                "name":"Shoukry Suleiman",
+                "contact":"01096600801",
+                "companyName":"Paynas",
+                "requestDate":"13-2-2021",
+                "bankName":"NBE",
+                "status":"Approved",
+                "sattlements":"4",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324906732",
+                "khaznaId":"9823457643",
+                "hrCode":"XWT34",
+                "nationalId":"0912652345324",
+                "name":"Omar Hamza",
+                "contact":"01096600222",
+                "companyName":"Paymob",
+                "requestDate":"3-3-2021",
+                "bankName":"CIB",
+                "status":"Rejected",
+                "sattlements":"6",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324267112",
+                "khaznaId":"9814527643",
+                "hrCode":"XUB34",
+                "nationalId":"756453434545324",
+                "name":"Ashraf Negm",
+                "contact":"01099900801",
+                "companyName":"Paynas",
+                "requestDate":"18-4-2021",
+                "bankName":"QNB",
+                "status":"Canceled",
+                "sattlements":"8",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324234032",
+                "khaznaId":"9878657643",
+                "hrCode":"DET34",
+                "nationalId":"7564532345324",
+                "name":"Shoukry Suleiman",
+                "contact":"01096600801",
+                "companyName":"Paynas",
+                "requestDate":"13-2-2021",
+                "bankName":"NBE",
+                "status":"Approved",
+                "sattlements":"4",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324906732",
+                "khaznaId":"9823457643",
+                "hrCode":"XWT34",
+                "nationalId":"0912652345324",
+                "name":"Omar Hamza",
+                "contact":"01096600222",
+                "companyName":"Paymob",
+                "requestDate":"3-3-2021",
+                "bankName":"CIB",
+                "status":"Rejected",
+                "sattlements":"6",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324267112",
+                "khaznaId":"9814527643",
+                "hrCode":"XUB34",
+                "nationalId":"756453434545324",
+                "name":"Ashraf Negm",
+                "contact":"01099900801",
+                "companyName":"Paynas",
+                "requestDate":"18-4-2021",
+                "bankName":"QNB",
+                "status":"Canceled",
+                "sattlements":"8",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324234032",
+                "khaznaId":"9878657643",
+                "hrCode":"DET34",
+                "nationalId":"7564532345324",
+                "name":"Shoukry Suleiman",
+                "contact":"01096600801",
+                "companyName":"Paynas",
+                "requestDate":"13-2-2021",
+                "bankName":"NBE",
+                "status":"Approved",
+                "sattlements":"4",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324906732",
+                "khaznaId":"9823457643",
+                "hrCode":"XWT34",
+                "nationalId":"0912652345324",
+                "name":"Omar Hamza",
+                "contact":"01096600222",
+                "companyName":"Paymob",
+                "requestDate":"3-3-2021",
+                "bankName":"CIB",
+                "status":"Rejected",
+                "sattlements":"6",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324267112",
+                "khaznaId":"9814527643",
+                "hrCode":"XUB34",
+                "nationalId":"756453434545324",
+                "name":"Ashraf Negm",
+                "contact":"01099900801",
+                "companyName":"Paynas",
+                "requestDate":"18-4-2021",
+                "bankName":"QNB",
+                "status":"Canceled",
+                "sattlements":"8",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324234032",
+                "khaznaId":"9878657643",
+                "hrCode":"DET34",
+                "nationalId":"7564532345324",
+                "name":"Shoukry Suleiman",
+                "contact":"01096600801",
+                "companyName":"Paynas",
+                "requestDate":"13-2-2021",
+                "bankName":"NBE",
+                "status":"Approved",
+                "sattlements":"4",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324906732",
+                "khaznaId":"9823457643",
+                "hrCode":"XWT34",
+                "nationalId":"0912652345324",
+                "name":"Omar Hamza",
+                "contact":"01096600222",
+                "companyName":"Paymob",
+                "requestDate":"3-3-2021",
+                "bankName":"CIB",
+                "status":"Rejected",
+                "sattlements":"6",
+                "payment":"fawry"
+            },
+            {
+                "requestId":"0324267112",
+                "khaznaId":"9814527643",
+                "hrCode":"XUB34",
+                "nationalId":"756453434545324",
+                "name":"Ashraf Negm",
+                "contact":"01099900801",
+                "companyName":"Paynas",
+                "requestDate":"18-4-2021",
+                "bankName":"QNB",
+                "status":"Canceled",
+                "sattlements":"8",
+                "payment":"fawry"
+            }
+            
+        ]
+    }
+}
