@@ -2,67 +2,67 @@
     "users":{
         "columnSet": [
             {
-                "lable": "Request ID",
+                "label": "Request ID",
                 "name": "requestId",
                 "search": true
             },
             {
-                "lable": "Khazna ID",
+                "label": "Khazna ID",
                 "name": "khaznaId",
                 "search": true
             },
             {
-                "lable": "HR Code",
+                "label": "HR Code",
                 "name": "hrCode",
                 "search": true
             },
             {
-                "lable": "National ID",
+                "label": "National ID",
                 "name": "nationalId",
                 "search": true
             },
             {
-                "lable": "Full Name",
+                "label": "Full Name",
                 "name": "name",
                 "search": true
             },
             {
-                "lable": "Contact Number",
+                "label": "Contact Number",
                 "name": "cotact",
                 "search": true
             },
             {
-                "lable": "Company Name",
+                "label": "Company Name",
                 "name": "companyName",
                 "filter": true
             },
             {
-                "lable": "Request Date",
+                "label": "Request Date",
                 "name": "requestDate",
                 "search": true
             },
             {
-                "lable": "Bank Name",
+                "label": "Bank Name",
                 "name": "bankName",
                 "search": true
             },
             {
-                "lable": "Account Number",
+                "label": "Account Number",
                 "name": "accountNumber",
                 "search": true
             },
             {
-                "lable": "Status",
+                "label": "Status",
                 "name": "status",
                 "filter": true
             },
             {
-                "lable": "Total Installiments",
+                "label": "Total Installiments",
                 "name": "sattlements",
                 "search": true
             },
             {
-                "lable": "Payment",
+                "label": "Payment",
                 "name": "payment",
                 "filter": true
             }
