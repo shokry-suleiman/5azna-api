@@ -68,7 +68,7 @@
                 "label": "Payment",
                 "name": "payment",
                 "filter": true,
-                "values":["fawry"]
+                "values":["fawry","Aman","Bee"]
             }
     
         ],
