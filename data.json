@@ -34,7 +34,8 @@
             {
                 "label": "Company Name",
                 "name": "companyName",
-                "filter": true
+                "filter": true,
+                "values":["Paynas","Paymob"]
             },
             {
                 "label": "Request Date",
@@ -54,7 +55,9 @@
             {
                 "label": "Status",
                 "name": "status",
-                "filter": true
+                "filter": true,
+                "values":["Approved","Rejected","Canceled"]
+            
             },
             {
                 "label": "Total Installiments",
@@ -64,7 +67,8 @@
             {
                 "label": "Payment",
                 "name": "payment",
-                "filter": true
+                "filter": true,
+                "values":["fawry"]
             }
     
         ],
