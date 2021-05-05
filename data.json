@@ -35,7 +35,7 @@
                 "label": "Company Name",
                 "name": "companyName",
                 "filter": true,
-                "values":["Paynas","Khazna"]
+                "values":["Paynas","Khazna","Paymob"]
             },
             {
                 "label": "Request Date",
