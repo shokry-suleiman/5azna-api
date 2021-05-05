@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "Deploy",
         "Docs",
-        "Refactor"
+        "Refactor",
+        "filter"
     ]
 }
